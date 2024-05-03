@@ -89,6 +89,8 @@
     "inputmode.quesmark-": "Question marks (rev)",
     "inputmode.color": "Color",
     "inputmode.color-": "Color (rev)",
+    "inputmode.symbol": "Symbol",
+    "inputmode.symbol-": "Symbol (rev)",
     "inputmode.border": "Border",
     "inputmode.sub-border": "Sub-border",
     "inputmode.subline": "Aux. conn. lines",
